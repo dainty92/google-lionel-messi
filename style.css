@@ -1442,7 +1442,7 @@ a {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   body {
     font-size: 14px;
   }
@@ -1679,5 +1679,5 @@ width: 20px;
 .footer-social-icon img {
 height: 12px;
 width: 12px;
-}
+} */
 }
